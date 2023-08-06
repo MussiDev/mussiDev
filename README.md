@@ -1,7 +1,7 @@
-[![MasterHead](https://joakoo-o.imgbb.com/)]
+[![MasterHead](https://ibb.co/wYFpKbj)]
 <h1 align="center">Hi 👋, I'm Joaquín Mussi</h1>
 <h3 align="center">I'm dedicated on building responsive applications focusing in the scalability, clean architecture and good practises.</h3>
-<img align="right" alt="Coding" width="400" src="https://joakoo-o.imgbb.com/" width="400"/>
+<img align="right" alt="Coding" width="400" src="https://ibb.co/wYFpKbj" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussidev&label=Profile%20views&color=0e75b6&style=flat" alt="mussidev" /> </p>
 
 - 🔭 I’m currently working at **La Mutual de AMR**
