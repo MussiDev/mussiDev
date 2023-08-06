@@ -6,7 +6,6 @@
 I'm dedicated on building responsive applications focusing in the scalability, clean architecture and good practises.
 
 Skills: NextJS / .NET / Tailwind
-
 - 🌱 I’m currently learning NextJS, .NET  
 
 
