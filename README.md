@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Joaquín Mussi</h1>
 <h3 align="center">I'm dedicated on building responsive applications focusing in the scalability, clean architecture and good practises.</h3>
 
