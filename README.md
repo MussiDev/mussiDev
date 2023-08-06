@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Joaquín 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussidev&label=Profile%20views&color=0e75b6&style=flat" alt="mussidev" /> </p>
-#### My beatiful cat 🡳
-![My beatiful cat 🡳]
-<img src="https://i.ibb.co/6N7D4pL/20230713-085243.jpg" alt="beatiful-cat" />
+<p align="left">My beatiful cat 🡳</p>
+<img src="https://i.ibb.co/6N7D4pL/20230713-085243.jpg" alt="beatiful-cat" align="right"/>
 
 I'm dedicated on building responsive applications focusing in the scalability, clean architecture and good practises.
 
