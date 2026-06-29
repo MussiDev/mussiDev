@@ -23,7 +23,6 @@ const joaquin = {
   role:  "Software Engineer",
   focus: ["architecture", "performance", "scalable web systems"],
   stack: ["Next.js", "TypeScript", ".NET", "C#"],
-  cats:  1,  // non-negotiable
 }
 ```
 
