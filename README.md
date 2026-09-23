@@ -9,8 +9,11 @@
 <p>
   <a href="https://github.com/mussiDev">GitHub</a> ·
   <a href="https://www.linkedin.com/in/joaquinmussi/">LinkedIn</a> ·
-  <a href="https://joaquinmussi.vercel.app/">Portfolio</a>
+  <a href="https://joaquinmussi.vercel.app/">Portfolio</a> ·
+  <a href="https://joaquinmussi.vercel.app/blog">Blog</a>
 </p>
+
+<p>Open to conversations about interesting projects.</p>
 
 ---
 
