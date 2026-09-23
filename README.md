@@ -41,6 +41,6 @@ const joaquin = {
 ### GitHub stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mussidev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Joaquín's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussidev&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
+  <img height="160" src="https://github-readme-stats-six-smoky-74.vercel.app/api?username=mussidev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Joaquín's GitHub stats" />
+  <img height="160" src="https://github-readme-stats-six-smoky-74.vercel.app/api/top-langs/?username=mussidev&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
 </div>
