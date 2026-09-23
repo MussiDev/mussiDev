@@ -1,10 +1,10 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mussidev&color=58a6ff&style=flat-square&label=profile+views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mussidev&color=58a6ff&style=flat-square&label=profile+views" alt="Profile views counter" />
 </p>
 
 <h1>Hey, I'm Joaquín 👋</h1>
 
-<p>Software Engineer focused on architecture, performance, and scalable web systems.</p>
+<p>Frontend Engineer focused on frontend architecture and web performance.</p>
 
 <p>
   <a href="https://github.com/mussiDev">GitHub</a> ·
@@ -16,13 +16,13 @@
 
 ### About
 
-I care about fundamentals — clean architecture, solid design patterns, and code that's built to last. Not just writing features; building systems that hold up under pressure.
+4+ years working on frontend systems that outgrew their original architecture. I care about the part that doesn't show: the decisions that decide whether a codebase scales or turns into a liability — reusable component systems, code review standards, and migrations off legacy stacks (Angular, CSHTML) onto Next.js.
 
 ```typescript
 const joaquin = {
-  role:  "Software Engineer",
-  focus: ["architecture", "performance", "scalable web systems"],
-  stack: ["Next.js", "TypeScript", ".NET", "C#"],
+  role:  "Frontend Engineer",
+  focus: ["frontend architecture", "web performance", "clean architecture"],
+  stack: ["Next.js", "React", "TypeScript", ".NET APIs"],
 }
 ```
 
@@ -32,17 +32,15 @@ const joaquin = {
 
 **Frontend** — React · Next.js · TypeScript · Tailwind CSS · Redux · SASS
 
-**Backend** — C# · .NET · GraphQL · REST
+**Backend integration** — .NET APIs · REST · GraphQL
 
-**Data** — SQL Server · MySQL · MongoDB · Firebase
-
-**Tooling** — Git · Jest · Webpack · Postman
+**Tooling** — Git · Jest · Playwright · Webpack
 
 ---
 
 ### GitHub stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mussidev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussidev&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mussidev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Joaquín's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussidev&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
 </div>
